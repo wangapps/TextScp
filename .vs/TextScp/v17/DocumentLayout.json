@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\TextScp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB43C9A-9C4B-45F6-9F7F-1D8C9BDD1C84}|TextScp\\TextScp.vcxproj|C:\\Users\\PC\\source\\repos\\TextScp\\TextScp\\TextScp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FB43C9A-9C4B-45F6-9F7F-1D8C9BDD1C84}|TextScp\\TextScp.vcxproj|solutionrelative:TextScp\\TextScp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextScp.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TextScp\\TextScp\\TextScp.cpp",
+              "RelativeDocumentMoniker": "TextScp\\TextScp.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TextScp\\TextScp\\TextScp.cpp",
+              "RelativeToolTip": "TextScp\\TextScp.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAuwNkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T13:30:06.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
